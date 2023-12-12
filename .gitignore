@@ -1,0 +1,4 @@
+#pour ne pas envoyer secrets.txt
+#*.py :pour ignorer tous les fichiers.py
+
+secrets.txt
